@@ -11,7 +11,7 @@ int main () {
 
     cout <<" address of num is " << &num << endl;
 
-    int *ptr = &num;
+    int *ptr = &num;  
 
     cout << "Address is : " << ptr << endl;
     cout << "value is : " << *ptr << endl;
